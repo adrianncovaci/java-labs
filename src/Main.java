@@ -5,7 +5,7 @@ public class Main {
 
         TextManipulation text = new TextManipulation();
 
-        text.data = "Cristian e homosexual. E okay sa fii homosexual. Nu e okay sa fii Cristian!";
+        text.data = "Text aici text";
         System.out.println("Nr de propozitii:");
         System.out.println(text.getNoOfSentences());
         System.out.println("Nr de litere:");
