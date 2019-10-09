@@ -82,7 +82,7 @@ public class TextManipulation {
                 values.put(word, 1);
             }
         }
-        System.out.println("Toate cuvintele:");
+        System.out.println("\nToate cuvintele:");
         values.entrySet().forEach(entry -> {
             System.out.print(entry.getKey() + " " + entry.getValue() + "       ");
         });
@@ -98,15 +98,21 @@ public class TextManipulation {
                 values.put(word, 1);
             }
         }
-        Map<String, Integer> hm1 = sortByValue(values);
-        Set<String> keys = hm1.keySet();
-        String[] array = new String[keys.size()];
-        int index = 0;
-        for (String element : keys) array[index++] = element;
 
-        System.out.println("Top 5 cele mai folosite cuvinte:");
-        for (int i = array.length - 1; i > array.length - 6; i--) {
-            System.out.print(array[i] + ", ");
+        if (words.length <= 5) {
+            showAllWords();
+        } else {
+            Map<String, Integer> hm1 = sortByValue(values);
+            Set<String> keys = hm1.keySet();
+            String[] array = new String[keys.size()];
+            int index = 0;
+            for (String element : keys) array[index++] = element;
+
+            System.out.println("Top 5 cele mai folosite cuvinte:");
+            for (int i = array.length - 1; i > array.length - 6; i--) {
+                System.out.print(array[i] + ", ");
+
+            }
         }
     }
 }
