@@ -1,20 +1,24 @@
-import lab_3.TextManipulation;
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.sql.SQLOutput;
+import java.util.List;
+import lab_4.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public Main() {
+    }
 
-        TextManipulation text = new TextManipulation();
-
-        text.data = "Text aici text.";
-        System.out.println("Nr de propozitii:");
-        System.out.println(text.getNoOfSentences());
-        System.out.println("Nr de litere:");
-        System.out.println(text.getNoOfLetters());
-        System.out.println("Nr de vocale:");
-        System.out.println(text.getNoOfVowels());
-        System.out.println("Nr de consoane:");
-        System.out.println(text.getNoOfConsonants());
-        text.showAllWords();
-        text.showFiveMostUsedWords();
+    public static void main(String[] var0) throws IOException {
+        List<String> allLines = Files.readAllLines(Paths.get("/home/adrian/Desktop/Uni/OOP/java-labs/src/text.txt"));
+        for (String line : allLines) {
+            mate mat = new mate();
+            System.out.println(mat.areParenthesisBalanced(line));
+        }
     }
 }
