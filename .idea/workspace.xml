@@ -1,28 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ad3b92-263d-4bb8-89d3-fac06c2af383" name="Default Changelist" comment="" />
+    <list default="true" id="770dad5a-1fe5-4db2-bbad-7641892d30f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_1/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_1/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_1/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_1/University.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_2/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_2/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_2/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_2/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_2/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_2/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_3/TextManipulation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_3/TextManipulation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_1/lab_3/TextManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_1/lab_3/TextManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_1/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_1/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_1/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_1/University.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_2/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_2/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_2/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_2/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_2/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_2/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_3/TextManipulation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_3/TextManipulation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/labs/lab_3/TextManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/labs/lab_3/TextManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
-  </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <analyzeAfterCompile>true</analyzeAfterCompile>
-    <toolWindowToFront>false</toolWindowToFront>
-  </component>
-  <component name="ProjectId" id="1Ry5qFahIuRFUHvDfXuYMIBfxpz" />
+  <component name="ProjectId" id="1T7jBfk7FjK3lYC6meAb5CD9pnv" />
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
@@ -38,27 +62,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="labs" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <module name="java-labs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,5 +74,37 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="770dad5a-1fe5-4db2-bbad-7641892d30f3" name="Default Changelist" comment="" />
+      <created>1572817894243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572817894243</updated>
+      <workItem from="1572817898292" duration="1072000" />
+      <workItem from="1572970063844" duration="25000" />
+      <workItem from="1572974004488" duration="421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
