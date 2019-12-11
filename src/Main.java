@@ -8,9 +8,12 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.sql.SQLOutput;
 import java.util.List;
+import javax.swing.*;
+import java.awt.event.*;
 import lab_7.*;
 
-public class Main {
+class Main {
+
     public Main() {
     }
 
@@ -21,5 +24,5 @@ public class Main {
         GeometricBody[] g1 = new GeometricBody[]{p1, s1, c1};
         GeometricBodyController ctrl = new GeometricBodyController();
         System.out.println(ctrl.getMaxSurface(g1));
-    }
+        }
 }
